@@ -1,2 +1,3 @@
 # Hackerrank_Java
-The problems that I solved in hackerrank
+Arrays : 
+ New Year Chaos
